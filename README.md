@@ -6,6 +6,6 @@ Check Live Demo:  [Password Generator](https://yasir-mukthar.github.io/password-
 
 Clone this repository
 
-### Run this command in the folder directory in termil `npm install`
+### Run this command in the folder directory in terminal `npm install`
 
 ### Then run this `npm start`
