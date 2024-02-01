@@ -1,9 +1,11 @@
 # Password Generator in React JS
 
-Check Live Demo:  [Create React App](https://yasir-mukthar.github.io/password-generator-in-reactjs/).
+Check Live Demo:  [Password Generator](https://yasir-mukthar.github.io/password-generator-in-reactjs/).
 
 ## Run this on Local System
 
 Clone this repository
 
 ### Run this command in the folder directory in termil `npm install`
+
+### Then run this `npm start`
